@@ -1,8 +1,8 @@
-# 🏄‍♂️ Forrest Knight
+# 🤖 Oriall
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "[ForrestKnight][youtube]" to more than 500k subscribers.
+I'm a student currently studying, practicing, and researching programming languages (especially in the areas of websites and supplementary applications). I hope to learn from and connect with many experienced seniors in the field. Thank you very much!
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
