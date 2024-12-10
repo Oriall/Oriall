@@ -1,6 +1,6 @@
 # 🤖 Oriall
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Student (Developer/Student/Designer)`**
 
 I'm a student currently studying, practicing, and researching programming languages (especially in the areas of websites and supplementary applications). I hope to learn from and connect with many experienced seniors in the field. Thank you very much!
 
