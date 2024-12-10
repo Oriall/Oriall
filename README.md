@@ -32,7 +32,7 @@ I'm a student currently studying, practicing, and researching programming langua
 
 #
 
-### 📺 Latest YouTube Videos
+### 📺 My Favorite YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![7 Design Patterns EVERY Developer Should Know](https://ytcards.demolab.com/?id=BJatgOiiht4&title=7+Design+Patterns+EVERY+Developer+Should+Know&lang=en&timestamp=1733497212&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1389 "7 Design Patterns EVERY Developer Should Know")](https://www.youtube.com/watch?v=BJatgOiiht4)
