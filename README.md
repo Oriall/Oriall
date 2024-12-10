@@ -2,7 +2,7 @@
 
 **`Student (Developer/Student/Designer)`**
 
-I'm a student currently studying, practicing, and researching programming languages (especially in the areas of websites and supplementary applications). I hope to learn from and connect with many experienced seniors in the field. Thank you very much!
+I'm a student currently studying, practicing, and researching programming languages (especially in the areas of websites and supplementary applications). I hope to learn from and connect with many experienced seniors in the field. Thank you very much!. Oh, and all my project in here was originally created not for the purpose of making money, only for research and learning purposes.
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
