@@ -1,3 +1,11 @@
+# Hi there 👋         [![](https://visitcount.itsvg.in/api?id=Oriall&icon=6&color=2)](https://visitcount.itsvg.in)
+
+- 🎯 I’m currently a HighSchool Student studying in Nghe An, Viet Nam
+- 🌱 I’m currently learning Dart, Python
+- 🤝 I’m looking to gaining more experience on Mobile and Backend Dev Projects
+- 💬 Ask me about **Technology** and **Personal Development**
+- 😄 Pronouns: He/Him
+
 # 💫 About Me:
 I'm a student currently studying, practicing, and researching programming languages (especially in the areas of websites and supplementary applications). I hope to learn from and connect with many experienced seniors in the field. Thank you very much!. Oh, and all my project in here was originally created not for the purpose of making money, only for research and learning purposes.
 
@@ -13,6 +21,6 @@ I'm a student currently studying, practicing, and researching programming langua
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Oriall&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Oriall&icon=6&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
