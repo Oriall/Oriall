@@ -1,6 +1,6 @@
 # Hi there 👋         [![](https://visitcount.itsvg.in/api?id=Oriall&icon=6&color=2)](https://visitcount.itsvg.in)
 
-- 🎯 I’m currently a HighSchool Student studying in Nghe An, Viet Nam
+- 🎯 I’m currently a Junior studying in HUST - HaNoi University of Science and Technology, Viet Nam.
 - 🌱 I’m currently learning Dart, Python
 - 🤝 I’m looking to gaining more experience on Mobile and Backend Dev Projects
 - 💬 Ask me about **Technology** and **Personal Development**
